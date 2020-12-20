@@ -5,4 +5,4 @@ x = 0
 for i in number:
     while int(i) > x:
         x = int(i)
-print("Самое большая цифра: ", x)
+print("Самая большая цифра: ", x)
